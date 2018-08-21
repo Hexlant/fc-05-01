@@ -1,0 +1,11 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "eosjs": "^16.0.5"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
